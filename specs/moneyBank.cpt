@@ -1,0 +1,13 @@
+# money transfer sitesine git
+* "https://catchylabs-webclient.testinium.com" adresine git
+
+
+# <username> ve <sifre> ile giris yap
+* "username" elementine <username> textini yaz
+* "password" elementine <sifre> textini yaz
+* "loginButton" elementine tikla
+
+# para ekleme sayfasina git
+* "logOutButton" element var mı kontrol et
+* "openMoneyTransferButton" elementine tikla
+* "addMoneyButton" elementine tikla

@@ -1,0 +1,87 @@
+[
+  {
+    "key": "username",
+    "value": "//input[@placeholder='Username']",
+    "type": "xpath"
+  },
+  {
+    "key": "password",
+    "value": "//input[@placeholder='Password']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginButton",
+    "value": "//div[text() = 'Login']",
+    "type": "xpath"
+  },
+  {
+    "key": "logOutButton",
+    "value": "//div[text() = 'Logout']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginHataMetni",
+    "value": "//div[text()='Username or Password Invalid!']",
+    "type": "xpath"
+  } ,
+  {
+    "key": "openMoneyTransferButton",
+    "value": "//div[text() = 'Open Money Transfer']",
+    "type": "xpath"
+  } ,
+  {
+    "key": "editAccountButton",
+    "value": "//div[text() = 'Edit account']",
+    "type": "xpath"
+  },
+  {
+    "key": "accountNameText",
+    "value": "(//div[text()='Account name']/following::div)[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "editAccountNameInput",
+    "value": "//div[text()='Account name']/following::input[1]",
+    "type": "xpath"
+  } ,
+  {
+    "key": "updateButton",
+    "value": "//div[text() = 'UPDATE']",
+    "type": "xpath"
+  },
+  {
+    "key": "cardNumberTooShort",
+    "value": "(//div[text()='Card number']/following::div[.='Too Short!'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cardNumberInput",
+    "value": "//div[text()='Card number']/following::input[1]",
+    "type": "xpath"
+  } ,
+  {
+    "key": "amountInput",
+    "value": "//div[text()='Amount']/following::input[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "addMoneyButton",
+    "value": "//div[text() = 'Add money']",
+    "type": "xpath"
+  },
+  {
+    "key": "addButton",
+    "value": "//div[text() = 'Add']",
+    "type": "xpath"
+  },
+  {
+    "key": "amountInput",
+    "value": "//div[text()='Amount']/following::input[1]",
+    "type": "xpath"
+  } ,
+  {
+    "key": "amountMustBeNumber",
+    "value": "//*[contains(text(), 'amount must be')]",
+    "type": "xpath"
+  }
+]
