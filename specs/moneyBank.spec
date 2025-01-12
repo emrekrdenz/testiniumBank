@@ -41,7 +41,6 @@ Card Number Eksik Giris
 tags: cardNumberEksikGiris
 * money transfer sitesine git
 * "emrekrdenz" ve "Mavi2020*" ile giris yap
-* "loginButton" elementine tikla
 * para ekleme sayfasina git
 * "cardNumberInput" elementine "123232" textini yaz
 * "addButton" elementine tikla
